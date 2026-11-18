@@ -6,7 +6,7 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart
 
 # Bot tokeningizni shu yerga yozing
-TOKEN = "9140076102:AAHuSIGr7B9c1YEzg5PBQn06A4eXM4p7UHI
+TOKEN = TOKEN = "9140076102:AAHuSIGr7B9c1YEzg5PBQn06A4eXM4p7UHI"
 
 # Dispatcher va Bot obyektini yaratish
 dp = Dispatcher()
